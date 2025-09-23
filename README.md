@@ -20,7 +20,7 @@ I'm passionate about crafting **interactive and responsive user interfaces** usi
 - **Languages:** HTML, CSS, JavaScript (ES6+), TypeScript
 - **Frameworks:** React.js, Tailwind CSS
 - **Tools:** Git & GitHub
-- **Design:** UI/UX
+- **Design:** UI/UX, Figma
 
 ---
 
