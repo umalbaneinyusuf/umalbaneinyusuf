@@ -47,7 +47,7 @@ I'm passionate about crafting **interactive and responsive user interfaces** usi
 
 ## Connect with Me
 
-- [LinkedIn](https://linkedin.com/in/um-al-banein)
+- [LinkedIn](https://www.linkedin.com/in/umalbaneinyusuf/)
 - Email: umalbanein.y.yusuf@gmail.com
 
 ---
